@@ -9,6 +9,9 @@ const images = [
     '././images/6.jpg',
     '././images/7.jpg',
     '././images/8.jpg',
+    '././images/9.jpg',
+    '././images/10.jpg'
+    
 ]
 const changeImg = (arr) => {
     let randNum = Math.floor(Math.random() * arr.length + 1)
